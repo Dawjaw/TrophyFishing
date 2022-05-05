@@ -1,0 +1,8 @@
+{
+    "name": "TrophyFishing",
+    "author": "Dawjaw",
+    "requires": ["Vigilance", "requestV2", "PromiseV2", "Elementa"],
+    "entry": "index.js",
+    "description": "Shows a list of caught trophy fish",
+    "version": "1.0.2"
+}
